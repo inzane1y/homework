@@ -32,7 +32,7 @@ def iterate(z):
     return z
 
 # Side size
-n = 100
+n = 30
 # Initial matrix
 z = np.random.randint(0, 2, (n, n))
 
